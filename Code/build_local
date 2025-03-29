@@ -1,0 +1,2 @@
+./COST/cxx EdcaSim.cc
+g++ -Wall -o EdcaSim EdcaSim.cxx
